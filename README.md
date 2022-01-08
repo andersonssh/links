@@ -14,6 +14,9 @@ Visualizar git:
 Simulador de envio de emails:
 [ethereal.email](https://ethereal.email)
 
+Verificar Cógido das teclas pressionadas: 
+[keycode.info](https://keycode.info/)
+
 ## Cursos e fontes de conhecimento
 
 FIAP Gratuito:
