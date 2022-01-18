@@ -24,3 +24,8 @@ FIAP Gratuito:
 
 Versionamento semântico:
 [semver.org](https://semver.org/lang/pt-BR/)
+
+## Utilitários
+
+Retonar imagens nas proporções solicitadas ex: /70 (70x70), /70x40 (70x40) 
+[via.placeholder.com/{proporção}](https://via.placeholder.com/100)
